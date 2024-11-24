@@ -1,0 +1,14 @@
+C:\Users\fff\source\repos\GitClone\GitClone\bin\Debug\net8.0\GitClone.exe
+C:\Users\fff\source\repos\GitClone\GitClone\bin\Debug\net8.0\GitClone.deps.json
+C:\Users\fff\source\repos\GitClone\GitClone\bin\Debug\net8.0\GitClone.runtimeconfig.json
+C:\Users\fff\source\repos\GitClone\GitClone\bin\Debug\net8.0\GitClone.dll
+C:\Users\fff\source\repos\GitClone\GitClone\bin\Debug\net8.0\GitClone.pdb
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.AssemblyInfoInputs.cache
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.AssemblyInfo.cs
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.csproj.CoreCompileInputs.cache
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.dll
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\refint\GitClone.dll
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.pdb
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\GitClone.genruntimeconfig.cache
+C:\Users\fff\source\repos\GitClone\GitClone\obj\Debug\net8.0\ref\GitClone.dll
